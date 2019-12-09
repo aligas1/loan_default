@@ -8,7 +8,11 @@ Due to githubs file size maximum being 25MB, I was unable to add the data to thi
 
 Each quartlerly report contained 150 columns and ~100,000 rows of data.
 
-Loan Status - Current, Fully Paid, In Grace Period, Late, Charged Off, Default Loan Properties - Amount, Length, Interest Rate, Month Issued, Description provided by the borrowers, etc. Borrower Data - Income, Home Ownership Status, Occupation, Employment Length, etc. Credit Risk Metrics - Metrics used to measure the risk of the loan, such as, fico score, bank card utilization, current balances on accounts, etc.
+- Loan Status - Current, Fully Paid, In Grace Period, Late, Charged Off, Default Loan Properties - Amount, Length, Interest Rate, Month Issued, Description provided by the borrowers, etc. 
+
+- Borrower Data - Income, Home Ownership Status, Occupation, Employment Length, etc. 
+
+- Credit Risk Metrics - Metrics used to measure the risk of the loan, such as, fico score, bank card utilization, current balances on accounts, etc.
 
 For more descriptions check out LCDataDictionary.csv
 
