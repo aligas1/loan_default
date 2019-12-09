@@ -12,6 +12,8 @@ Loan Status - Current, Fully Paid, In Grace Period, Late, Charged Off, Default L
 
 For more descriptions check out LCDataDictionary.csv
 
+file:///Users/alicjaligas/Desktop/Screen%20Shot%202019-12-08%20at%2010.17.27%20PM.png
+
 ### Unbalanced Classes
 
 Quarterly, less than 1% of all loans resulted in default. This caused a marjor class inbalance of the target variable. Attempting to train a model that would predict above the baseline was a major challange. I tried two techniques to deal with the class inbalance. The first was undersampling with the majority class. The second was SMOTE. SMOTE helps underbalanced classes by generating synthetic samples similar to the target class. Such as with K nearest neighbors, SMOTE uses distance to find data points closest to the target and learns form its features. It then generates data points that have properties of both the target data and the majority class.
