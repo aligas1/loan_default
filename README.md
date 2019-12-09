@@ -20,4 +20,4 @@ The class inbalance also made it difficult to identify features that were strong
 
 ### Going Forward
 
-Continuing forward I will explore better and more robust ways to deal with unbalanced classes and continue to try different modeling techniques.
+The biggest challanged face with this project was class inbalance. Even with techniques like undersampling with the majority class and SMOTE it was difficult to build a model that predicted above the baseline. Another challange presented was the size of the data. Given the large file sizes, sometimes models ran very slowly. Continuing forward I will explore better and more robust ways to deal with unbalanced classes and continue to try different modeling techniques. I will also incorporate Cloud Computing services such as AWS or FloydHub. 
